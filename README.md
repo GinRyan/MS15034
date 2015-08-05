@@ -5,6 +5,8 @@ http://www.hx99.net/Article/Tech/201504/36652.html
 
 https://www.vulbox.com/lab/
 
+http://www.freebuf.com/articles/system/64185.html
+
 星期四一早我的推特就被微软最新的ms15-034漏洞公告刷屏了.
 
 ms15-034漏洞出在http.sys文件中.这个文件是iis的一个重要组件,功能和特性对windows来说意义重大.微软公告说这个漏洞是一个可以执行远程代码的漏洞,但是截至目前为止已发布的poc仅仅只能dos掉系统,虽然有人声称出售可以用于远程攻击的poc但是真实性值得怀疑.
